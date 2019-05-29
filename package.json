@@ -1,0 +1,11 @@
+{
+  "name": "motivational_strings",
+  "version": "1.0.0",
+  "description": "gives you a motivational quote",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tushar Singhal",
+  "license": "ISC"
+}
